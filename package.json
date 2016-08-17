@@ -1,6 +1,6 @@
 {
   "name": "nimmu",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "like n_, but preloaded with immutable js",
   "main": "index.js",
   "preferGlobal": true,
