@@ -1,0 +1,19 @@
+{
+  "name": "nimm",
+  "version": "1.0.0",
+  "description": "like n_, but preloaded with immutable js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRacoon/nimm.git"
+  },
+  "author": "Erik Sutherland <erik.misu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRacoon/nimm/issues"
+  },
+  "homepage": "https://github.com/MrRacoon/nimm#readme"
+}
