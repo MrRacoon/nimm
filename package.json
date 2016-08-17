@@ -1,14 +1,24 @@
 {
   "name": "nimm",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "like n_, but preloaded with immutable js",
   "main": "index.js",
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "repl",
+    "n_",
+    "immutable",
+    "immutableJS"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MrRacoon/nimm.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "bin": {
       "nimm": "bin/nimm"
