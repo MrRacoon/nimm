@@ -1,17 +1,13 @@
 nimmu
 ====
 
-A Node repl with `ImmutableJS` provided from the get go.
-
-The purpose is to have a quick way to get to the ImmutableJS commands to test
-and try random thoughts and ideas. Or practice. I mean, really, it's totally up
-to you what you do with it. I don't care.
+A quick way to play with ImmutableJS from the command line.
 
 Usage
 -----
 
-After starting the repl, you will get a typical node prompt. your REPL out. Use
-`_` to get to Immutable.
+After starting the repl, you will get a typical node prompt. Use `_` to get to
+Immutable.
 
 
 Install
