@@ -1,6 +1,8 @@
 nimmu
 ====
 
+[![dependencies Status](https://david-dm.org/MrRacoon/nimmu/status.svg)](https://david-dm.org/MrRacoon/nimmu)
+
 A quick way to play with ImmutableJS from the command line.
 
 Usage
