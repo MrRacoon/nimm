@@ -10,10 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/MrRacoon/nimm.git"
   },
+  "bin": {
+      "nimm": "bin/nimm"
+  },
+  "lib": {
+      "index": "lib/index.js"
+  },
   "author": "Erik Sutherland <erik.misu@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MrRacoon/nimm/issues"
   },
-  "homepage": "https://github.com/MrRacoon/nimm#readme"
+  "homepage": "https://github.com/MrRacoon/nimm#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
 }
